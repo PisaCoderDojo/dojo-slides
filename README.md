@@ -6,7 +6,7 @@ Speriamo che tanti piccoli Ninja, mentori, docenti e genitori in giro per l'Ital
 > Raccolta di slides usate dal **2015** al **2020** nei Dojo organizzati a Pisa! 
 
 ## #iorestoacasa... e programmo!
-> Slides dei tutorial pubblicati durante l'iniziativa [#iorestoacasa e #programmo](https://pisa.coderdojo.it/iorestoacasa/ "#iorestoacasa e programmo") del **Pisa CoderDojo** 
+> Slides dei tutorial pubblicati durante l'iniziativa [#iorestoacasa e programmo](https://pisa.coderdojo.it/iorestoacasa/ "#IORESTOACASA e programmo!") del **Pisa CoderDojo** 
 
 1. [L'Importanza di Restare a Casa](https://www.youtube.com/watch?v=KY3C8PQ5v7M "Video Tutorial #1")
 2. [Catabunga AR](https://www.youtube.com/watch?v=NsDYcBGim_I "Video Tutorial #2")
