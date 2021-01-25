@@ -22,3 +22,7 @@ Speriamo che tanti piccoli Ninja, mentori, docenti e genitori in giro per l'Ital
 12. [Scratch Orchestra](https://www.youtube.com/watch?v=IsSdy43e0Og "Video Tutorial #12")
 13. [Steven the Bat](https://www.youtube.com/watch?v=sD4Tna7EKCQ "Video Tutorial #13")
 14. [Dadi Cantastorie](https://www.youtube.com/watch?v=Wvp6eOpFZTg "Video Tutorial #14")
+
+## Dojo Online!
+
+* [Xmas dojo](/dojo-online/xmas): Raccolta di slides per attività a tema natalizio! 
