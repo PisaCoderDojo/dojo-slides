@@ -26,3 +26,4 @@ Speriamo che tanti piccoli Ninja, mentori, docenti e genitori in giro per l'Ital
 ## Dojo Online!
 
 * [Xmas dojo](/dojo-online/xmas): Raccolta di slides per attività a tema natalizio! 
+* [Automi](/dojo-online/automi): Attività sui concetti di automa a stati finiti.
